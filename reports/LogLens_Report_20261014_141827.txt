@@ -1,0 +1,25 @@
+========== LOGLENS REPORT ==========
+Generated: 2026-10-14T14:18:27.078165200
+Records analyzed: 2005
+
+========== STATUS CODE COUNTS ==========
+200: 1255
+201: 136
+204: 89
+400: 79
+401: 146
+403: 33
+404: 93
+429: 46
+500: 88
+502: 26
+503: 14
+
+========== SLOWEST ENDPOINTS ==========
+/api/checkout: 199.45 ms average
+/api/payments: 193.51 ms average
+/api/orders: 184.89 ms average
+/api/products/search: 131.22 ms average
+/api/products: 123.51 ms average
+
+========== END OF REPORT ==========

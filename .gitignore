@@ -1,7 +1,7 @@
 # Compiled Java files
 *.class
 
-# IDE settings
+# VS Code settings
 .vscode/
 
 # Operating system files
